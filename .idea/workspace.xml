@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f71a7ac5-993b-4cc4-9fbd-bd034bc8f80c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CanvasTutorial/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CanvasTutorial/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CanvasTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CanvasTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CanvasTutorial/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CanvasTutorial/Index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CanvasTutorial/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CanvasTutorial/canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="46" selection-start-column="46" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -60,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560008148585</updated>
-      <workItem from="1560008155247" duration="2492000" />
+      <workItem from="1560008155247" duration="3408000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit canvas">
       <created>1560008833158</created>
@@ -123,23 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1560008833158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first tutorial resizing canvas elements">
+      <created>1560010765731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560010765732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2492000" />
+    <option name="totallyTimeSpent" value="3408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2113402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10392902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49871135" visible="true" weight="0.30790192" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50128865" side_tool="true" visible="true" weight="0.30790192" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49809885" weight="0.30417228" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49936628" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5006337" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49871135" weight="0.32970026" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -183,7 +191,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit canvas" />
+    <MESSAGE value="first tutorial resizing canvas elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="first tutorial resizing canvas elements" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../CanvasTutorial/README.md">
@@ -196,15 +205,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CanvasTutorial/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CanvasTutorial/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

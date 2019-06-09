@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CanvasTutorial/canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+            <state relative-caret-position="136">
+              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560008148585</updated>
-      <workItem from="1560008155247" duration="10199000" />
+      <workItem from="1560008155247" duration="13096000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit canvas">
       <created>1560008833158</created>
@@ -144,20 +144,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560013013115</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Version that makes a random number of circles and animates them bounching against the walls of the screen.">
+      <created>1560018456565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560018456565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10199000" />
+    <option name="totallyTimeSpent" value="13096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10139417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20618556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.4974227" visible="true" weight="0.30686405" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.4974227" visible="true" weight="0.31062672" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49936628" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5025773" side_tool="true" weight="0.30790192" />
       <window_info anchor="bottom" id="Messages" sideWeight="0.49871135" weight="0.32970026" />
@@ -207,7 +215,8 @@
     <MESSAGE value="first tutorial resizing canvas elements" />
     <MESSAGE value="fixed a bug" />
     <MESSAGE value="Worked with squares, lines, and arcs. Included colors." />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked with squares, lines, and arcs. Included colors." />
+    <MESSAGE value="Version that makes a random number of circles and animates them bounching against the walls of the screen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Version that makes a random number of circles and animates them bounching against the walls of the screen." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../CanvasTutorial/README.md">
@@ -227,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CanvasTutorial/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+        <state relative-caret-position="136">
+          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
